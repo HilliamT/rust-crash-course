@@ -1,6 +1,6 @@
 # Rust Crash Course
 
-Repository filled with examples of Rust code I've written as I was learning the language.
+Repository filled with examples of Rust code I've written as I'm learning the language.
 
 #### Get Started
     
